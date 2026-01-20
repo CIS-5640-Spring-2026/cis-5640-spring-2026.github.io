@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2024-12-22T10:15:00-5:00
+date: 2026-01-15T10:15:00-5:00
 title: 'Assignment #0 - Minecraft Exploration Challenge'
 pdf: /static_files/assignments/Assignment0.pdf
 due_event: 
