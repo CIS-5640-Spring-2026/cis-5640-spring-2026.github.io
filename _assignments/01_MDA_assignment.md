@@ -35,5 +35,4 @@ Let’s practice analyzing the relationship between game mechanics and the playe
     - This is what YOU feel as you're playing the game when the Mechanics and Dynamics happen. You should be using emotion words when describing aesthetics.
     - For example, in Minecraft, when you fall from a high place and don’t have a bucket of water to break your fall, you may feel frustrated that your character will die or get a lot of damage.You may feel anxious navigating high-up terrain.
 
-
 4. Write a brief reflection on how the three mechanics you’ve chosen work together to support the vision of the game. Or don’t!
