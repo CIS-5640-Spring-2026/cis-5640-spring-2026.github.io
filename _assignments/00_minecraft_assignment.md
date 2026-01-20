@@ -5,7 +5,7 @@ title: 'Assignment #0 - Minecraft Exploration Challenge'
 pdf: /static_files/assignments/Assignment0.pdf
 due_event: 
     type: due
-    date: 2025-01-22T23:59:59-5:00
+    date: 2026-01-22T23:59:59-5:00
     description: 'Assignment #0 due'
 hide_from_announcments: true
 ---
