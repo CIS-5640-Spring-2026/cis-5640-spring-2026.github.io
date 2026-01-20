@@ -14,72 +14,21 @@ hide_from_announcments: true
 
 This low-pressure assignment is meant to ease you into the semester’s style while letting you explore a familiar game with a designer’s mindset.
 
-Don't worry—it’s designed to be easy and should only take about **1-2 hours** to complete. You also have plenty of time to finish it, as the deadline is during the **second week of the next semester**.
+Don't worry—it’s designed to be easy and should only take about **1-2 hours** to complete. You also have plenty of time to finish it, as the deadline is during the **second week of the next semester**. You can find the details for this assignment and every subsequent one by clicking on "problems".
 
 ---
-
-### **Task Details**
-
-Play Minecraft and answer a few questions. If you’ve never played Minecraft before, we encourage you to ping the course discord and play with someone familiar with the game :)
-
-### **Step 1: Choose Your Goal**
-
-You may pick one of the following goals:
-
-- **Tier 1**: Obtain a diamond.
-- **Tier 2**: Craft a brewing stand.
-- **Tier 3**: Defeat the Ender Dragon.
-
-Feel free to pick one that best matches your comfort level in Minecraft.
-
-### **Step 2: Two Playthroughs**
-
-1. Playthrough One
-    - Mode: **Any difficulty**, any play style you prefer.
-    - Tip: Record any interesting moments, mechanics, challenges, or strategies as you go. These notes will help with your reflection.
-2. Playthrough Two
-    - Mode: **Hardcore mode**.
-    - Tip: Notice how playing with a single life changes your decisions. Again, jot down your thoughts and feelings as you progress.
-
-Throughout both playthroughs, pay attention to your goals, actions, and emotional reactions as a player—these observations will be critical for your write-up.
-
-Note also any frustrations you may have interacting with the game in achieving your goals.
-
-### **Step 3: Reflection & Write-Up**
-
-After completing both playthroughs, submit a short write-up addressing the following:
-
-1. **Experience Summary**: Briefly summarize each of your experiences. How did you feel in each?
-2. **Strategy Differences:** Explain the differences in your gameplay strategies between the two playthroughs.
-
- No need to write a full essay (unless you feel like it). A few sentences will do.
-
 ### **Submission Instructions**
 
-Please submit your write-up on Canvas.
+To submit this assignment and all future ones, please upload your submission to the appropriate Discord channel and adhere to the following guidelines:
 
-We also encourage you to share your experience through discord! Please check the **announcement channel** under "COURSE RELATED" category for discord submission instruction.
+1. Tag it Right: When posting about homework or activities, use the appropriate tags to make it easier for others to find your post
 
-### **Minecraft Education Setup**
+2. Title Your Post Clearly: Include your name / group name and a short description. For example:
+"[Rain Yan] MDA Assignment"
+"[Team Penndivers] Action Lab Prototype"
 
-If you don’t have access to the standard version of Minecraft, you can use **Minecraft Education**! It functions just like regular Minecraft, and, thanks to UPenn’s Office 365 subscription, all institution members have access to Minecraft Education, including **free multiplayer servers**—so you can play with others and share your achievements!
+3. Media Sharing: Feel free to attach images or videos as references & finished work if they help explain your point or show your work
 
-To get started, follow these steps:
+4. Give Feedback: Don’t just post—take a moment to check out others’ work and leave constructive feedback. Let’s help each other grow!
 
-1. **Download Minecraft Education**
-    
-    Visit the official page:
-	https://education.minecraft.net/en-us/get-started/download
-    
-2. **Log In**
-    
-    Use the same credentials you use for your Office 365 login:
-    
-    - **Account**: `pennkey@upenn.edu`*(Note: Do not use `pennkey@seas.upenn.edu`.)*
-    - **Password**: Your PennKey password.
-3. **Set Up Office 365 (If Needed)**
-    
-    If you haven’t set up your Office 365 account yet, please refer to this guide:
-    https://isc.upenn.edu/how-to/penno365-office-365-proplus#Getting-started
-    
-Enjoy the assignment, and we look forward to seeing your creativity!
+5. Stay Respectful: Be kind, encouraging, and constructive in your comments. We’re here to learn and have fun together!
