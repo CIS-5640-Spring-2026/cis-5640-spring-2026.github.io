@@ -2,7 +2,7 @@
 type: assignment
 date: 2026-01-27T22:00:00-5:00
 title: 'Assignment #2 - Analyzing Game Loops'
-pdf: /static_files/assignments/Assignment2.pdf
+pdf: https://docs.google.com/document/d/1vAXHVb1JnJGgf7IHfi6BmrrHtZNKV6Jx4b8HfakbMF4/edit?tab=t.0#heading=h.tiuuplsj9t87
 due_event: 
     type: due
     date: 2026-02-03T23:59:59-5:00
