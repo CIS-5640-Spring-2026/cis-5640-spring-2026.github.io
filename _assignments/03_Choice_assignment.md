@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2025-02-03T14:00:00-5:00
+date: 2026-02-03T14:00:00-5:00
 title: 'Assignment #3 - Player Choice'
 pdf: https://docs.google.com/document/d/1qBFl9g_tvjv_t4mBqCV9U2uOpozQwIlWz03oeee7pWg/edit?tab=t.0#heading=h.tiuuplsj9t87
 due_event: 
