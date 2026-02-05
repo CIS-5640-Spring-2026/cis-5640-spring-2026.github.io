@@ -10,6 +10,9 @@ due_event:
 hide_from_announcments: true
 ---
 
+Welcome to Lab 3! We will explore how themes and mechanics interact in game design. This lab will take place over two weeks, giving you time to brainstorm, prototype, playtest, and refine your own version of Crazy Eights, a classic card game that plays similarly to UNO but uses a standard 52-card deck.
+
+---
 ## **Submission Instructions**
 
 To submit this assignment and all future ones, please upload your submission to the appropriate Discord channel and adhere to the following guidelines:
