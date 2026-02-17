@@ -6,7 +6,7 @@ pdf: https://docs.google.com/document/d/1QNrHq6ToPHCZLoxkLOFMx02FOnwkHsAO4SXJyJZ
 due_event: 
     type: due
     date: 2026-02-24T23:59:59-5:00
-    description: 'Assignment #5'
+    description: 'Assignment #5 due'
 hide_from_announcments: true
 ---
 

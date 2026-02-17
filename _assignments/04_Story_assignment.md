@@ -5,7 +5,7 @@ title: 'Assignment #4 - Story and Gameplay'
 pdf: https://docs.google.com/document/d/1HDqjIuAcPkH0x0mkii2bdtz715OlCqEd5-sLM-9USNM/edit?tab=t.0#heading=h.ctqiaxnk49qb
 due_event: 
     type: due
-    date: 2026-02-16T23:59:59-5:00
+    date: 2026-02-176T23:59:59-5:00
     description: 'Assignment #4 due'
 hide_from_announcments: true
 ---
