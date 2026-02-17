@@ -1,16 +1,17 @@
 ---
 type: assignment
-date: 2026-02-11T14:00:00-5:00
-title: 'Assignment #4 - Story and Gameplay'
-pdf: https://docs.google.com/document/d/1HDqjIuAcPkH0x0mkii2bdtz715OlCqEd5-sLM-9USNM/edit?tab=t.0#heading=h.ctqiaxnk49qb
+date: 2026-02-17T10:15:00-5:00
+title: 'Skill Share Assignment'
+pdf: https://docs.google.com/document/d/1nuYG465BivZQ8HRAXjNC0ait2Cnn_AbisjGPMHLpV0E/edit?tab=t.0#heading=h.tiuuplsj9t87
 due_event: 
     type: due
-    date: 2026-02-16T23:59:59-5:00
-    description: 'Assignment #4 due'
+    date: 2026-04-14T23:59:59-5:00
+    description: 'Skill Share due'
 hide_from_announcments: true
 ---
 
-### **Submission Instructions**
+---
+## **Submission Instructions**
 
 To submit this assignment and all future ones, please upload your submission to the appropriate Discord channel and adhere to the following guidelines:
 
