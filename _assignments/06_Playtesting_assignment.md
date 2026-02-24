@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2026-02-24T10:15:00-5:00
-title: 'Assignment #5 - Prototyping and Playtesting'
+title: 'Assignment #6 - Prototyping and Playtesting'
 pdf: https://docs.google.com/document/d/1zS2HKgDPAN3RodRXghHoGAJJ1zK0bS76GOStRCsEpKE/edit?tab=t.0#heading=h.tiuuplsj9t87
 due_event: 
     type: due
