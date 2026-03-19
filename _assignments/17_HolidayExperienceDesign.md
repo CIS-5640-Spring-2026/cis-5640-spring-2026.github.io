@@ -5,7 +5,7 @@ title: "Assignment 7: Experience Design"
 pdf: https://docs.google.com/document/d/1c6Un5jeLKfieBcXPIg1wK_VgiPfYYT04yOGN4amzdkg/edit?tab=t.0
 due_event:
   type: due
-  date: 2026-03-19T23:59:59-5:00
+  date: 2026-03-24T23:59:59-5:00
   description: "Assignment #7"
 hide_from_announcments: true
 ---
