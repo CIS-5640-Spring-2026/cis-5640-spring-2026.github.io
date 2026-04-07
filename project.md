@@ -31,24 +31,25 @@ This final project is your opportunity to apply all the game design principles a
 
 By the end of the project, you should have a complete and well-structured game that demonstrates engaging mechanics, thoughtful design decisions, and meaningful player interaction—all while providing a fun and immersive experience.
 
-The final due date will be the class final exam slot (May 8th), where we will play and evaluate your games. Before then, we will hold a few playtest sessions, where you’ll have the opportunity to play each other’s games and provide feedback.
+The final due date will be (April 23rd), where we will play and evaluate your games. Before then, we will hold a few in class working sessions, where you’ll have the opportunity to work with groups and eventually play each other’s games and provide feedback.
 
 # Constraints
 
-* You may work in groups of **up to four** (but you can also work in smaller groups, or alone)  
-* The game must playable **without any digital elements** (could be played with paper, dice, physical action etc)  
-* The game should be completed in about **10 minutes**  
-* Has to be **multiplayer\!** You can specify the number of players or player range, but it can’t be a one player game.
+* You may work in groups of **up to four**  (but you can also work in smaller groups, or alone)
+* The game must playable **without any digital elements** (could be played with paper, dice, physical action etc)
+* The game must take  **10 minutes**  
+* Must be **multiplayer\!** You can specify the number of players or player range, but it can’t be a one player game.
 
 # Prompts
 
 ## 1. Video Game Adaptation
 
-Choose a **video game** to adapt. It can be **any genre**—action, puzzle, RPG, strategy, etc. Create a **table top game tribute** to the original that captures the core emotional experience of that game. It DOES NOT have to have the same mechanics as the original. 
+Choose a video game to adapt. It can be any genre—action, puzzle, RPG, strategy, etc. Create a table top game tribute to the original that captures the core emotional experience of that game. It DOES NOT have to have the same mechanics as the original. 
 
 For example: a group of game design students once successfully adapted Tony Hawk’s Pro Skater into a card game by identifying that the core experience was about going for combos, doing a trick then deciding whether to or not press your luck by stringing on another trick for a higher score. Their adaptation involved drawing cards randomly from a deck to decide on the success of their next trick (similar to pig). Players could decide whether to finish their trick, or draw another card which could be a success or failure (Nailed it, Fumble, etc). 
 
 Table top games are fundamentally different from video games, so rather than trying to perfectly mimic the video game experience, think about how to use the affordances and strengths of table top / in person / paper games.
+
 
 Consider:
 
@@ -62,7 +63,7 @@ Consider:
 - What is the [core game loop](https://docs.google.com/presentation/d/1vUuD4Ok_NEQZaWbNi289Nf0S1GII6e3QDecwHh4qbig/edit#slide=id.p1)?
 
 
-## 2. Make a Sequel
+## 2. Homage
 
    Choose a game that you are passionate about and create a sequel based on it. Are there mechanics that make the game feel boring? Are there homebrew elements that you usually abide by? Your sequel could contain these elements\! Or perhaps you like the overarching idea of the game and want to go a completely different direction?   
      
@@ -70,15 +71,19 @@ Consider:
      
    **Please make sure that the game you create can be played within ten minutes\!**
 
-## 3. Choose Your Own Adventure, But Seek Approval :)
+## 3. A Japanese Game Show
+In the wonderful tradition of made for television games, create a game that is designed to create spectacle.
+
+
+## 4. Choose Your Own Adventure, But Seek Approval :)
 
 If you have an idea that you feel very strongly about, go pursue it\!\! But please check in with Rui first.
 
 # Milestones
 
-**Assigned**: March 25th
+**Assigned**: March 19th
 
-**Milestone 0**: Concept (4/1)  
+**Milestone 0**: Concept (7 days, 3/26)  
 What is the concept for your game? You do not need to adhere to this, and will very likely shift, but you should be prepared to pitch your game, as if you were trying to get your game funded. Submit a 1-2 page document answering the following questions:
 
 - In brief, what’s the concept for your game? What is the vision?  
@@ -87,7 +92,7 @@ What is the concept for your game? You do not need to adhere to this, and will v
 - What are the core player choices?   
 - How do you expect players to feel when they play?
 
-**Milestone 1**: Exploration (4/15)  
+**Milestone 1**: Exploration (7 days, 4/02)
 Between Milestone 0 and this due date, create THREE different simple prototypes of what your game could be. They do not need to be good. They do not need to be final. But they should be an exploration of the design space, to ensure that the idea that you commit to is engaging. 
 
 Everyone can contribute to every one of the prototypes. But for the purposes of coordination, we suggest you assign 1 person to take point on each prototype, meaning they are responsible for making sure the prototype is completed and playtested (and if you have a group of 4, the last person can be “producer”, making sure each of the ideas is distinct and explores design space in a unique way).
@@ -100,7 +105,7 @@ Submit a write-up of the three ideas that you explored. For each game, detail:
 - What were your feedback and observations?  
 - Overall, how successful was your prototype? Was it engaging? Did it adhere to your original vision? Is it worth pursuing and iterating on further?
 
-**Milestone 2**: Refinement (4/22)  
+**Milestone 2**: Refinement (5 days, 4/07)
 Now that you’ve explored the design space a bit, commit to an idea. This could be one of the three ideas you prototyped or a frankenstein, or something entirely new based on what you’ve learned. Playtest this idea thoroughly and solidify the design as much as you can. Submit a reflection document with the following:
 
 - What is the updated game vision?  
@@ -113,7 +118,7 @@ Now that you’ve explored the design space a bit, commit to an idea. This could
   - What isn’t working / could be improved?  
   - How do you plan to iterate?
 
-**Milestone 3**: Polish and Art Assets (4/29)  
+**Milestone 3**: Polish and Art Assets (10 days, 4/16)
 Continue iterating on your game. At this point, you should be refining details, such as what are the specific cards / point values, etc. If you haven’t yet, consider the visuals, packaging and name for your game. Do some work to produce proper assets for it. But continue playtesting and iterating and expect that your final asset needs may change. Submit a one page reflection
 
 - What have you changed since the last milestone?  
@@ -121,7 +126,7 @@ Continue iterating on your game. At this point, you should be refining details, 
 
 Your last week of development will be spent polishing and packaging up your work\!
 
-**Milestone 4**: Demo & Presentation (5/6)  
+**Milestone 4**: Demo & Presentation (4/23)
 Bring in a video of your game for demo :) Like in an investor pitch.  
 Video should include
 
@@ -158,6 +163,6 @@ All of our previous [lectures](https://cis-5640-spring-2025.github.io/lectures/)
 For fabrication and print materials:
 
 - Education Commons (3D printing services, laser cutting, and much more)  
-- Tangen Hall (3D printing services, laser cutting  
+- Tangen Hall (3D printing services, laser cutting, and much more)
 - Charles Addams   
   - For more information and help with printing, contact Micah Danges at danges@design.upenn.edu
